@@ -2,7 +2,7 @@
 id: commands
 description: You can find a list of Rythm's commands here.
 title: Commands
----
+---a
 
 :::info Note
 ### Always remember the following!
